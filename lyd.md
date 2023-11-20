@@ -6,7 +6,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 ***
 
-# Optag lyd med [Audacity](https://www.audacityteam.org/)
+# 1. Optag lyd med [Audacity](https://www.audacityteam.org/)
  - Start programmet: tryk på windows tasten og skriv audacity
  - Vælg optageenhed - som hedder noget forskelligt alt efter hvilken mikrofon I har - tjek at optagekvaliteten er god
 
@@ -23,21 +23,21 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 ***
 
-# Ændre minecraft pakke (gruppe 1 bruges som eksempel)
- 1. Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
+# 2. Ændre minecraft pakke (gruppe 1 bruges som eksempel)
+ 2.1 Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
 
 
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
 
  
- 2. Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
+ 2.2 Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
 
 
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
 
  
- 3. Find herefter mappen "gruppeX" i overførsler/ downloads
- 4. I den mappe findes:
+ 2.3 Find herefter mappen "gruppeX" i overførsler/ downloads
+ 2.4 I den mappe findes:
      - manifest.json
      - mapperne "sounds/music/game/records" og for gruppe 1 hedder lydfilerne sådan:
 
@@ -45,7 +45,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ![mapperne](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-lydfilerne.png)
 
  
- 5. de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
+ 2.5 de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
 
 
 ![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)

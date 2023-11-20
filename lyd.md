@@ -84,6 +84,8 @@ Alle discs/musikplader er en lydfil der kan ændres ved at tilføje en fil med s
  7. Find jukeboxen og afprøv jeres discs/musikplader: __afspiller de rigtigt?__
  8. __Når I er færdige skal I komme med jeres færdige minecraft-pakke.__ Så bliver den importeret i vores fælles verden.
 
+![jukebox](jukebox.png)
+
 ***
 
 # Ny version af minecraft pakke

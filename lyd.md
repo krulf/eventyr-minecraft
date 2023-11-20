@@ -32,7 +32,7 @@ Alle discs/musikplader er en lydfil der kan ændres ved at tilføje en fil med s
 
 ***
 
-# 2. Ændre minecraft pakke (gruppe 1 bruges som eksempel)
+# 2. Ændre minecraft pakke (gruppe1 bruges som eksempel)
  1. Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
 
 
@@ -45,7 +45,7 @@ Alle discs/musikplader er en lydfil der kan ændres ved at tilføje en fil med s
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
 
  
- 3. Find herefter mappen "gruppeX" i overførsler/ downloads
+ 3. Find herefter mappen "gruppe1" i overførsler/ downloads
  4. I den mappe findes:
      - manifest.json
      - mapperne "sounds/music/game/records" og for gruppe 1 hedder lydfilerne sådan:

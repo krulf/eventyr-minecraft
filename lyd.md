@@ -87,8 +87,8 @@ Hvis pakken skal opdateres eller ændres skal der laves en ny version.
 
  1. Opdater filerne som skal ændres
  2. Pakken skal have et nyt navn og et nyt versionsnummer (filen er også vist herunder):
-    2.1 Åben __manifest.json__
-    2.2 Skift værdien "name" fra f.eks. "Gruppe 1" til: "Gruppe 1 version 1.0.1"
+    2.1 Åben filen __manifest.json__ og find følgende to linjer der skal ændres
+    2.2 Skift værdien "name" fra f.eks. "Gruppe 1" til: "Gruppe 1 v1"
     2.3 Skift værdien "Version" fra f.eks. [1, 0, 0], til: [1, 0, 1],
  3. Gå tilbage til overskrift 3 og test minecraft-pakken
 

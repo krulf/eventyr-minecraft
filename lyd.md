@@ -5,6 +5,11 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
  - Test at de 3 lydfiler virker
  - Ny version af minecrat-pakke: hvis noget skal ændres
 
+
+![jukebox](jukebox.png)
+
+
+
 ***
 
 # 1. Optag lyd med [Audacity](https://www.audacityteam.org/)

@@ -1,6 +1,9 @@
 # Læg din egen lyd ind i Minecraft
 
-# Optage lyd: Audacity
+# Optag lyd med [Audacity](https://www.audacityteam.org/)
+ - Start programmet: tryk på windows tasten og skriv audacity
+ - Vælg optageenhed
+       - ![optageenhed](audacity-optageenhed.png)
 
 # Ændre minecraft pakke
 

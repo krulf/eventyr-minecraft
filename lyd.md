@@ -14,6 +14,11 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
  - brug optage knappen til at optage med
  - gem optagelsen ved at eksportere: __Fil -> Eksporter lyd... CTRL-SHIFT-E__
  - Vælg Format: Ogg Vorbis-filer
+ - Det er vigtigt at I kalder jeres lydfiler de rigtige navne for jeres gruppe:
+
+
+![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)
+
 
 # Ændre minecraft pakke (gruppe 1 bruges som eksempel)
  - Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)

@@ -34,6 +34,8 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
+
+ 
  3. Find herefter mappen "gruppeX" i overførsler/ downloads
  4. I den mappe findes:
      - manifest.json
@@ -41,6 +43,8 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 
 ![mapperne](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-lydfilerne.png)
+
+ 
  5. de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
 
 
@@ -62,6 +66,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 
 ![ressourcepakke](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-ressourcepakke.png)
+
 
  7. Find jukeboxen og afprøv jeres discs: __afspiller de rigtigt?__
  8. __Når I er færdige skal I komme med jeres færdige minecraft-pakke.__ Så bliver den importeret i vores fælles verden.

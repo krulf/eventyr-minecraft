@@ -16,9 +16,6 @@ Alle discs/musikplader er en lydfil der kan ændres ved at tilføje en fil med s
 ![4](icon_pack4.png)
 ![5](icon_pack5.png)
 
-![jukebox](jukebox.png)
-
-
 
 ***
 

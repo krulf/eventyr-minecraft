@@ -43,12 +43,20 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 
 
-# Teste minecraft pakke
- - Det er tid for at teste minecraft pakken med lydfilerne
+# Test minecraft-pakke
+ - Det er tid for at teste minecraft-pakken med lydfilerne
  - Højreklik på den gule mappe i øverførsler og vælg at pakke den ned til en zip-fil:
 
 
 ![createzip](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-createzip.png)
+ - Filer har et navn og et efternavn, adskilt af punktum. F.eks.: __gruppe1.zip__
+ - For at få minecraft til at importere zip-filen skal dens efternavn ændres fra "zip" til "mpack"
+ - Dobbeltklik på filen og minecraft skulle gerne importere filen successfuldt
+ - Test filen ved at oprette en ny verden
+    - Under "Ressourcepakker" fold "Mine Pakker" ud og "aktiver" jeres ressourcepakke:
+
+
+![ressourcepakke](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-ressourcepakke.png)
 
 
 # Ny version af minecraft pakke

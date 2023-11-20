@@ -4,7 +4,7 @@
  - Brug skindex skin editor: https://www.minecraftskins.com/skin-editor/
  - Husk at markere forsiden af dit skin
  - Brug outer layer til detaljer
- - *Download* skin og lave en skinpakke med skinpack creator
+ - _Download_ skin og lave en skinpakke med skinpack creator
 
 ## (2) Lav en skinpack med skinpack creator
  - Gå ind på siden: https://cdsmythe.com/minecraftskins2/index.html
@@ -13,5 +13,5 @@
    - Vælg navn til dit skin
  - Angiv versionsnummer
  - Vælg den fil med det skin du lige har downloadet fra skin editor
- - Download skinpakke
+ - _Download_ skinpakke
  - Dobbeltklik på den fil du har downloadet: Minecraft viser en besked om at den importerer din skinpakke

@@ -24,7 +24,14 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
- - Find herefter mappen "gruppeX"
+ - Find herefter mappen "gruppeX" i overførsler/ downloads
+ - I den mappe findes:
+     - manifest.json
+     - mapperne "sounds/music/game/records" og for gruppe 1 hedder lydfilerne sådan:
+
+
+![mapperne](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-lydfilerne.png)
+
 
 
 # Teste minecraft pakke

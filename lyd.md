@@ -4,6 +4,8 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
  - Pak de 3 lydfiler ned i en minecraft add-on pakke
  - Test at de 3 lydfiler virker
 
+***
+
 # Optag lyd med [Audacity](https://www.audacityteam.org/)
  - Start programmet: tryk på windows tasten og skriv audacity
  - Vælg optageenhed - som hedder noget forskelligt alt efter hvilken mikrofon I har - tjek at optagekvaliteten er god

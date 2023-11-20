@@ -21,6 +21,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 ![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)
 
+***
 
 # Ændre minecraft pakke (gruppe 1 bruges som eksempel)
  - Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
@@ -43,7 +44,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 ![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)
 
-
+***
 
 # Test minecraft-pakke
  - Det er tid for at teste minecraft-pakken med lydfilerne
@@ -60,5 +61,34 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 ![ressourcepakke](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-ressourcepakke.png)
 
+***
 
 # Ny version af minecraft pakke
+Hvis pakken skal opdateres eller ændres skal der laves en ny version.
+
+ - Opdater filerne som skal ændres
+ - Pakken skal have et nyt navn og et nyt versionsnummer:
+    - Åben __manifest.json__
+    - Skift værdien "name" fra f.eks. "Gruppe 1" til: "Gruppe 1 version 1.0.1"
+    - Skift værdien "Version" fra f.eks. [1, 0, 0], til: [1, 0, 1],
+
+```
+{
+ "format_version": 2,
+ "header": {
+   "description": "13.ogg, cat.ogg, blocks.ogg",
+   "name": "Gruppe 1",
+   "uuid":"cbb8563c-51b1-4bb5-8889-73ad681e3790",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Min næsten første add-on",
+     "type": "resources",
+     "uuid": "4315d904-e594-4424-a328-dffe9d132b55",
+     "version": [1, 0, 0]
+   }
+ ]
+}
+```

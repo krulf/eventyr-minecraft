@@ -61,6 +61,9 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 ![ressourcepakke](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-ressourcepakke.png)
 
+ - Find jukeboxen og afprøv jeres discs
+ - __Når I er færdige skal I komme med jeres færdige minecraft-pakke.__ Så bliver den importeret i vores fælles verden.
+
 ***
 
 # Ny version af minecraft pakke

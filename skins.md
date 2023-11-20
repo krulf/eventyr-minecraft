@@ -14,3 +14,4 @@
  - Angiv versionsnummer
  - Vælg den fil med det skin du lige har downloadet fra skin editor
  - Download skinpakke
+ - Dobbeltklik på den fil du har downloadet: Minecraft viser en besked om at den importerer din skinpakke

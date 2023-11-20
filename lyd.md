@@ -1,9 +1,10 @@
 # Læg din egen lyd ind i Minecraft
-Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
- - Lav 3 lydfiler med Audacity
+Hver gruppe kan bruge op til 3 discs i minecrafts jukebox. Alle discs er en lydfil der kan ændres ved at tilføje en fil med samme navn i en minecraft-pakke.
+
+ - Hver gruppe skal lave 3 lydfiler med Audacity
  - Pak de 3 lydfiler ned i en minecraft add-on pakke
- - Test at de 3 lydfiler virker
- - Ny version af minecrat-pakke: hvis noget skal ændres
+ - Test at de 3 lydfiler virker når I sætter jeres discs i
+ - Hvis noget skal ændres skal der laves en ny version af minecraft-pakken
 
 
 ![jukebox](jukebox.png)

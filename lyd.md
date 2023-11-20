@@ -18,7 +18,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 # Ændre minecraft pakke (gruppe 1 bruges som eksempel)
  - Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
 
-.
+
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
  - Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
 

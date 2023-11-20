@@ -9,6 +9,13 @@ Alle discs/musikplader er en lydfil der kan ændres ved at tilføje en fil med s
  - Hvis noget skal ændres skal der laves en ny version af minecraft-pakken
 
 
+
+![1](icon_pack1.png)
+![2](icon_pack2.png)
+![3](icon_pack3.png)
+![4](icon_pack4.png)
+![5](icon_pack5.png)
+
 ![jukebox](jukebox.png)
 
 

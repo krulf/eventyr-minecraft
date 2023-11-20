@@ -24,20 +24,20 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ***
 
 # 2. Ændre minecraft pakke (gruppe 1 bruges som eksempel)
- 2.1. Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
+ 1. Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
 
 
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
 
  
- 2.2 Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
+ 2. Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
 
 
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
 
  
- 2.3. Find herefter mappen "gruppeX" i overførsler/ downloads
- 2.4. I den mappe findes:
+ 3. Find herefter mappen "gruppeX" i overførsler/ downloads
+ 4. I den mappe findes:
      - manifest.json
      - mapperne "sounds/music/game/records" og for gruppe 1 hedder lydfilerne sådan:
 
@@ -45,14 +45,14 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ![mapperne](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-lydfilerne.png)
 
  
- 2.5. de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
+ 5. de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
 
 
 ![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)
 
 ***
 
-# Test minecraft-pakke
+# 3 Test minecraft-pakke
  1. Det er tid for at teste minecraft-pakken med lydfilerne
  2. Højreklik på den gule mappe i øverførsler og vælg at pakke den ned til en zip-fil:
 
@@ -81,7 +81,7 @@ Hvis pakken skal opdateres eller ændres skal der laves en ny version.
     2.1 Åben __manifest.json__
     2.2 Skift værdien "name" fra f.eks. "Gruppe 1" til: "Gruppe 1 version 1.0.1"
     2.3 Skift værdien "Version" fra f.eks. [1, 0, 0], til: [1, 0, 1],
- 3. 
+ 3. Gå tilbage til overskrift 3 og test minecraft-pakken
 
 ```
 {

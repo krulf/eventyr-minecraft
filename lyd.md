@@ -8,7 +8,7 @@
 ![optageenhed](audacity-optageenhed.png)
 
  - brug optage knappen til at optage med
- - gem optagelsen ved at eksportere: _Fil -> Eksporter lyd... CTRL-SHIFT-E_
+ - gem optagelsen ved at eksportere: __Fil -> Eksporter lyd... CTRL-SHIFT-E__
  - Vælg Format: Ogg Vorbis-filer
 
 # Ændre minecraft pakke

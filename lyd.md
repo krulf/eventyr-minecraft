@@ -24,22 +24,22 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ***
 
 # Ændre minecraft pakke (gruppe 1 bruges som eksempel)
- - Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
+ 1. Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
 
 
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
- - Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
+ 2. Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
 
 
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
- - Find herefter mappen "gruppeX" i overførsler/ downloads
- - I den mappe findes:
+ 3. Find herefter mappen "gruppeX" i overførsler/ downloads
+ 4. I den mappe findes:
      - manifest.json
      - mapperne "sounds/music/game/records" og for gruppe 1 hedder lydfilerne sådan:
 
 
 ![mapperne](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-lydfilerne.png)
- - de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
+ 5. de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
 
 
 ![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)
@@ -47,33 +47,34 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ***
 
 # Test minecraft-pakke
- - Det er tid for at teste minecraft-pakken med lydfilerne
- - Højreklik på den gule mappe i øverførsler og vælg at pakke den ned til en zip-fil:
+ 1. Det er tid for at teste minecraft-pakken med lydfilerne
+ 2. Højreklik på den gule mappe i øverførsler og vælg at pakke den ned til en zip-fil:
 
 
 ![createzip](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-createzip.png)
- - Filer har et navn og et efternavn, adskilt af punktum. F.eks.: __gruppe1.zip__
- - For at få minecraft til at importere zip-filen skal dens efternavn ændres fra "zip" til "mpack"
- - Dobbeltklik på filen og minecraft skulle gerne importere filen successfuldt
- - Test filen ved at oprette en ny verden
+ 3. Filer har et navn og et efternavn, adskilt af punktum. F.eks.: __gruppe1.zip__
+ 4. For at få minecraft til at importere zip-filen skal dens efternavn ændres fra "zip" til "mpack"
+ 5. Dobbeltklik på filen og minecraft skulle gerne importere filen successfuldt
+ 6. Test filen ved at oprette en ny verden
     - Under "Ressourcepakker" fold "Mine Pakker" ud og "aktiver" jeres ressourcepakke:
 
 
 ![ressourcepakke](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-ressourcepakke.png)
 
- - Find jukeboxen og afprøv jeres discs: __afspiller de rigtigt?__
- - __Når I er færdige skal I komme med jeres færdige minecraft-pakke.__ Så bliver den importeret i vores fælles verden.
+ 7. Find jukeboxen og afprøv jeres discs: __afspiller de rigtigt?__
+ 8. __Når I er færdige skal I komme med jeres færdige minecraft-pakke.__ Så bliver den importeret i vores fælles verden.
 
 ***
 
 # Ny version af minecraft pakke
 Hvis pakken skal opdateres eller ændres skal der laves en ny version.
 
- - Opdater filerne som skal ændres
- - Pakken skal have et nyt navn og et nyt versionsnummer:
-    - Åben __manifest.json__
-    - Skift værdien "name" fra f.eks. "Gruppe 1" til: "Gruppe 1 version 1.0.1"
-    - Skift værdien "Version" fra f.eks. [1, 0, 0], til: [1, 0, 1],
+ 1. Opdater filerne som skal ændres
+ 2. Pakken skal have et nyt navn og et nyt versionsnummer (filen er også vist herunder):
+    2.1 Åben __manifest.json__
+    2.2 Skift værdien "name" fra f.eks. "Gruppe 1" til: "Gruppe 1 version 1.0.1"
+    2.3 Skift værdien "Version" fra f.eks. [1, 0, 0], til: [1, 0, 1],
+ 3. 
 
 ```
 {

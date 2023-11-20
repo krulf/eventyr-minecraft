@@ -8,7 +8,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
  - Start programmet: tryk på windows tasten og skriv audacity
  - Vælg optageenhed
 
-.
+
 ![optageenhed](audacity-optageenhed.png)
 
  - brug optage knappen til at optage med
@@ -22,7 +22,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
  - Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
 
-.
+
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
  - Find herefter mappen "gruppeX"
 

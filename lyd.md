@@ -24,7 +24,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ***
 
 # 2. Ændre minecraft pakke (gruppe 1 bruges som eksempel)
- 2.1 Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
+ 2.1. Hent skabelonen til minecraftpakken for jeres gruppe: [lydpakker](https://github.com/krulf/eventyr-minecraft/tree/main/lydpakke)
 
 
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
@@ -36,8 +36,8 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ![extract-here](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-extract-here.png)
 
  
- 2.3 Find herefter mappen "gruppeX" i overførsler/ downloads
- 2.4 I den mappe findes:
+ 2.3. Find herefter mappen "gruppeX" i overførsler/ downloads
+ 2.4. I den mappe findes:
      - manifest.json
      - mapperne "sounds/music/game/records" og for gruppe 1 hedder lydfilerne sådan:
 
@@ -45,7 +45,7 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 ![mapperne](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-lydfilerne.png)
 
  
- 2.5 de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
+ 2.5. de tre filer der ligger der skal udskiftes med de optagelser I har lavet, samlet oversigt herunder:
 
 
 ![discs](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-discs.png)

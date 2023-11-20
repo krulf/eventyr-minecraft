@@ -4,7 +4,7 @@
  - Start programmet: tryk på windows tasten og skriv audacity
  - Vælg optageenhed
 
-Opta
+.
 ![optageenhed](audacity-optageenhed.png)
 
  - brug optage knappen til at optage med

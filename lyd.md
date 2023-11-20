@@ -28,6 +28,8 @@ Hver gruppe kan bruge op til 3 discs i minecrafts jukebox
 
 
 ![download](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-download.png)
+
+ 
  2. Pak lydpakken ud: højre-klik på filen under downloads/ overførsler og pak den ud med
 
 

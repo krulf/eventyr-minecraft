@@ -71,6 +71,7 @@ Alle discs/musikplader er en lydfil der kan ændres ved at tilføje en fil med s
 
 
 ![createzip](https://github.com/krulf/eventyr-minecraft/blob/main/lydpakke-createzip.png)
+
  3. Filer har et navn og et efternavn, adskilt af punktum. F.eks.: __gruppe1.zip__
  4. For at få minecraft til at importere zip-filen skal dens efternavn ændres fra "zip" til "mpack"
  5. Dobbeltklik på filen og minecraft skulle gerne importere filen successfuldt

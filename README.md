@@ -4,6 +4,11 @@
 * Lav dit eget skin: [skins.md](skins.md)
 * Lav en pakke med lyd: [lyd.md](lyd.md)
 
+# Oversigtskort
+![oversigtskort](oversigt.png)
+
+
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
